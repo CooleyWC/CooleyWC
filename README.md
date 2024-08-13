@@ -2,11 +2,13 @@
   <h1>Will Cooley</h2>
 </div>
 
-<div>
+
 Hello! I am a Full Stack Software Engineer specializing in Javascript and Python. I have a background in Music Performance and Music Education where I bring creativity and structure to coding. 
 
+
+
 I approach programming problems with the same persistence, creativity, and determination as learning a new piece of music on my instrument. I’m looking to join a team where I can apply my diverse skill set to developing high-quality products.
-</div>
+
 
 <div align=center>
 <h3>Technologies</h3>
