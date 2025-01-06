@@ -3,7 +3,7 @@
 </div>
 
 
-Hello! I am a Full Stack Software Engineer specializing in Javascript and Python. I have a background in Music Performance and Music Education where I bring creativity and structure to coding. 
+Hello! I am a Software Engineer specializing in Javascript and Python. I have a background in Music Performance and Music Education where I bring creativity and structure to coding. 
 
 
 
